@@ -1,0 +1,125 @@
+{
+  "selectedTemplate": 3,
+  "headings": {
+    "education": "Education",
+    "skills": "Skills",
+    "awards": "Awards",
+    "projects": "Projects",
+    "work": "Work Experience"
+  },
+  "basics": {
+    "name": "Tymofii Nimets",
+    "email": "tymnim@gmail.com",
+    "phone": "+1 226-929-1827",
+    "location": {
+      "address": "Toronto, ON"
+    },
+    "website": "https://tymnim.github.io/"
+  },
+  "education": [
+    {
+      "institution": "Conestoga College",
+      "location": "Waterloo, ON",
+      "area": "Computer Science",
+      "startDate": "Jan 2018",
+      "gpa": "3.5",
+      "endDate": "May 2021"
+    }
+  ],
+  "work": [
+    {
+      "company": "Canada Revenue Agency",
+      "location": "Mississauga, ON",
+      "website": "",
+      "startDate": "May 2019",
+      "endDate": "Present",
+      "highlights": [
+        "Provided desktop support for hardware and software support for user community",
+        "Performed hardware troubleshooting and upgraded systems",
+        "Documented work activities and problem resolution/escalation through the use of Canada Revenue Agency’s automated service management tools"
+      ],
+      "position": "IT Support Analyst"
+    },
+    {
+      "highlights": [
+        "Planned the application architecture",
+        "Developing back end and front end of the application",
+        "Applying best development and team work practices"
+      ],
+      "company": "Astralife (Startup)",
+      "position": "DevOps Engeneer",
+      "location": "Kitchener, ON",
+      "startDate": "Mar 2019",
+      "endDate": "Present"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "JavaScript, NodeJS, C#, Rust, PHP, Java, MySQL, MS SQL Server, MongoDB, HTML, CSS, WebGL, IndexedDB, Electron, Monogame, Cordova, React Native, AWS, NGINX, Agile, UML, UX&UI"
+      ],
+      "name": "Development:"
+    },
+    {
+      "keywords": [
+        "Effective Communication, Public Speaking, Leadership, Developer Collaboration, Project Planning, Time Management, Fluent Proficiency in 3 Languages "
+      ],
+      "name": "Interpersonal & Project Work:"
+    }
+  ],
+  "projects": [
+    {
+      "keywords": [
+        "JavaScript",
+        null,
+        "NGINX",
+        "MongoDB",
+        "MySQL",
+        "HTML & CSS"
+      ],
+      "name": "Astralife",
+      "description": "Startup that aims to help prevent mental and emotional disorders",
+      "url": "Currently Under Construction"
+    },
+    {
+      "keywords": [
+        "JavaScript",
+        "NodeJS",
+        "HTML & CSS",
+        "Electron"
+      ],
+      "name": "Timsgr",
+      "description": "Secure Internet messenger",
+      "url": "https://github.com/TymNim/Timsgr"
+    },
+    {
+      "keywords": [
+        "C#",
+        "MonoGame",
+        "NodeJS",
+        "TCP/IP"
+      ],
+      "name": "Massacre",
+      "description": "Cross-platform online multiplayer game",
+      "url": "https://github.com/TymNim/monoMassacre"
+    }
+  ],
+  "awards": [
+    {
+      "title": "1st place - 4x4 Challenge Hackathon",
+      "date": "Mar 2019",
+      "awarder": "Conestoga College",
+      "summary": "Recognized for demonstration entrepreneurial and technical skills to solve real world problems"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "skills",
+    "work",
+    "projects",
+    "awards"
+  ]
+}
