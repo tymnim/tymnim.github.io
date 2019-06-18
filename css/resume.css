@@ -13,7 +13,7 @@ body {
 @media (min-width: 992px) {
   body {
     padding-top: 0;
-    padding-left: 17rem;
+    /* padding-left: 17rem; */
   }
 }
 
@@ -152,7 +152,10 @@ p.lead {
 section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
-  max-width: 75rem;
+}
+
+.my-auto {
+	width: 100%;
 }
 
 section.resume-section .resume-item .resume-date {
